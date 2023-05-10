@@ -17,8 +17,8 @@ Erode and Dilate the image.
 End the Program.
  
 ## Program:
-## Developed by : Nivetha M
-## Register number :212221240034
+ Developed by : Nivetha M
+ Register number :212221240034
 
 ``` Python
 
