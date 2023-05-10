@@ -17,10 +17,9 @@ Erode and Dilate the image.
 End the Program.
  
 ## Program:
+``` Python
  Developed by : Nivetha M
  Register number :212221240034
-
-``` Python
 
 # Import the necessary packages
 
@@ -57,13 +56,13 @@ plt.imshow(image_dilate1, 'gray')
 ## Output:
 
 ### Display the input Image
-![output](./a.png)
+
 
 ### Display the Eroded Image
-![output](./b.png)
+
 
 ### Display the Dilated Image
-![output](./c.png)
+
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
