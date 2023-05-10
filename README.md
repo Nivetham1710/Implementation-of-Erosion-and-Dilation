@@ -56,12 +56,15 @@ plt.imshow(image_dilate1, 'gray')
 ## Output:
 
 ### Display the input Image
+![d](https://github.com/Nivetham1710/Implementation-of-Erosion-and-Dilation/assets/94155183/ecd43646-171c-40a2-8719-8125951f6860)
 
 
 ### Display the Eroded Image
+![e](https://github.com/Nivetham1710/Implementation-of-Erosion-and-Dilation/assets/94155183/ebaa5937-8559-4c3e-bb0e-6bfb28f01f79)
 
 
 ### Display the Dilated Image
+![f](https://github.com/Nivetham1710/Implementation-of-Erosion-and-Dilation/assets/94155183/055a6963-fe41-42f0-b54f-ecd0d544da86)
 
 
 ## Result
