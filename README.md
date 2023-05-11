@@ -31,7 +31,7 @@ import matplotlib.pyplot as plt
 
 img1 = np.zeros((100,260), dtype = 'uint8')
 font = cv2.FONT_HERSHEY_SIMPLEX
-cv2.putText(img1,'anusha',(5,70), font, 2,(255),5,cv2.LINE_AA)
+cv2.putText(img1,'NIVETHA',(5,70), font, 2,(255),5,cv2.LINE_AA)
 plt.imshow(img1,'gray')
 
 # Create the structuring element
